@@ -65,7 +65,7 @@ export default function Supabase() {
     <div className="m-4">
       <p>
         This page is use to test data fetching from supabase with clerk
-        authentication
+        authentication.
       </p>
       <div style={{ display: "flex", flexDirection: "column" }}>
         <input
